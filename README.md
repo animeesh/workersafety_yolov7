@@ -1,6 +1,6 @@
 # workersafety_yolov7
 
-python detect_and_track.py --weights crane_master2.pt --conf 0.25 --source crane.mp4 --view-img
+python detect_and_track.py --weights crane_master2.pt --conf 0.25 --source crane.mp4 --view-img --no-trace
 
 Hello,
 
